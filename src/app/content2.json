@@ -1,0 +1,15 @@
+
+{
+    "questions": [
+      {
+        "id": 1,
+        "Question1": " Explain UX writing Movie app ?",
+        "UserProfile1": "https://randomuser.me/api/portraits/men/8.jpg",
+        "Answer1": "Introduce users to the app with a welcoming message,Provide a brief overview of the app's key features and functionality, Encourage users to customize their preferences for a personalized experience.Use clear and intuitive labels for navigation buttons and menus Ensure consistency in terminology to avoid confusion Provide concise instructions or tooltips when necessary Use compelling and concise movie titles and descriptions.Introduce users to the app with a welcoming message,Provide a brief overview of the app's key features and functionality, Encourage users to customize their preferences for a personalized experience.Use clear and intuitive labels for navigation buttons and menus Ensure consistency in terminology to avoid confusion Provide concise instructions or tooltips when necessary Use compelling and concise movie titles and descriptions,Introduce users to the app with a welcoming message,Provide a brief overview of the app's key features and functionality, Encourage users to customize their preferences for a personalized experience.Use clear and intuitive labels for navigation buttons and menus Ensure consistency in terminology to avoid confusion Provide concise instructions or tooltips when necessary Use compelling and concise movie titles and descriptions,",
+        "likes": 42,
+        "dislikes": 10
+      }
+      
+    ]
+  }
+  
